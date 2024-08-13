@@ -1,4 +1,5 @@
-# Todo List - Vanilla JavaScript
+# Todo List 
+Using only Vanilla JavaScript
 
 This is a simple Todo List application built using Vanilla JavaScript. It allows users to add, remove, and toggle tasks on their list.
 
